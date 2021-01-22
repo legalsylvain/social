@@ -11,5 +11,6 @@
     "website": "https://github.com/OCA/social",
     "license": "AGPL-3",
     "depends": ["mail"],
+    "data": ["views/view_res_users.xml"],
     "installable": True,
 }
